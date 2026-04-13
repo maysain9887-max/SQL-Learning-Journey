@@ -1,14 +1,14 @@
-# SQL-Learning-Journey
+
 # 📊 SQL Learning Journey 🚀
 
 Hi, I'm **Mayank** 👋
-This repository contains my complete journey of learning SQL — from **basic queries to advanced data analysis**.
+Welcome to my SQL learning repository where I document my journey from **basics to advanced SQL concepts** along with hands-on practice and projects.
 
 ---
 
-## 🎯 Objective
+## 🎯 Goal
 
-To build strong SQL skills and become a **Data Analyst** by practicing real-world problems and projects.
+To become a **Data Analyst / SQL Expert** by mastering real-world data querying and analysis.
 
 ---
 
@@ -22,7 +22,7 @@ To build strong SQL skills and become a **Data Analyst** by practicing real-worl
 
 ### 🟡 Intermediate
 
-* JOINS (INNER, LEFT, RIGHT)
+* JOINS (INNER, LEFT, RIGHT, FULL)
 * GROUP BY & HAVING
 * Subqueries
 
@@ -30,13 +30,13 @@ To build strong SQL skills and become a **Data Analyst** by practicing real-worl
 
 * Window Functions
 * CTE (Common Table Expressions)
-* Indexing
+* Indexing & Optimization
 
 ---
 
 ## 📂 Repository Structure
 
-```id="str001"
+```
 sql-learning-journey/
 │
 ├── 01-basics/
@@ -48,11 +48,11 @@ sql-learning-journey/
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 * MySQL
 * PostgreSQL
-* SQL CLI / VS Code
+* SQL CLI
 
 ---
 
@@ -61,30 +61,30 @@ sql-learning-journey/
 ### 🔹 Employee Database Analysis
 
 * Salary insights
-* Department analysis
+* Department-wise analysis
 * Top performers
 
 ### 🔹 Sales Data Analysis
 
 * Revenue trends
 * Monthly growth
-* Customer insights
+* Customer behavior
 
 ---
 
-## 🧠 Learning Strategy
+## 🧠 Learning Approach
 
-* Practicing SQL queries daily
-* Writing clean and readable code
-* Adding comments for better understanding
-* Solving real-world problems
+* Writing clean and readable SQL queries
+* Adding comments for every query
+* Practicing daily with real datasets
+* Building mini projects
 
 ---
 
-## 📝 Sample Query
+## 📝 Example Query
 
-```sql id="qry001"
--- 📌 Get top 5 highest paid employees
+```sql
+-- 📌 Problem: Get top 5 highest paid employees
 SELECT *
 FROM employees
 ORDER BY salary DESC
@@ -93,28 +93,28 @@ LIMIT 5;
 
 ---
 
-## 📈 Progress
+## 📈 Progress Tracker
 
 * ✅ Basics Completed
 * 🔄 Intermediate In Progress
-* ⏳ Advanced Coming Soon
+* ⏳ Advanced Pending
 
 ---
 
-## 🚀 Future Goals
+## 🚀 Future Plans
 
-* Build more SQL projects
-* Learn Data Visualization (Power BI / Tableau)
+* Build real-world SQL projects
+* Learn Data Visualization tools
 * Integrate SQL with Python
 
 ---
 
 ## 🤝 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: (your profile link)
+* LinkedIn: (your profile link)
 
 ---
 
-⭐ If you like this repository, don't forget to star it!
+⭐ If you like this repo, don't forget to star it!
 
